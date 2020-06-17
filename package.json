@@ -9,6 +9,7 @@
   "author": "Lloyd Noone",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "puppeteer": "^3.3.0"
   }
 }
